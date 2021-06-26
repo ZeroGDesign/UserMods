@@ -23,3 +23,4 @@ like so:
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- | 
 |creator_name | [Mod Title](./creator_here/mod_folder_name) | Example description (short). |:green_heart: :blue_heart: :heart:
+| Aepko | [rPi 3.5 LCD mount](./aepko/rPi-3.5-LCD-mount) | Adafruit 3.5" TFT screen on the front | 💚
