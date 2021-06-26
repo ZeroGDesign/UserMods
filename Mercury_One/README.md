@@ -22,4 +22,4 @@ like so:
 
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- | 
-|Creator_name | [Mod Title](./Creator_here/mod_folder_name) | Example description (short). |:green_heart: :blue_heart: :heart:
+|creator_name | [Mod Title](./creator_here/mod_folder_name) | Example description (short). |:green_heart: :blue_heart: :heart:
