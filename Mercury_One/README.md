@@ -37,4 +37,4 @@ like so:
 | --- | --- | --- | --- | 
 |creator_name | [Mod Title](./creator_here/mod_folder_name) | Example description (short). |:green_heart: :blue_heart: :heart:
 | aepkolol | [rPi 3.5 LCD mount](./aepkolol/rPi-3.5-LCD-mount) | Adafruit 3.5" TFT screen on the front | 💚
-| OhDeeEsTee | [Inverted XY Bridge](./OhDeeEsTee/Inverted XY Bridge) | inverted cable chain mount | :green_heart:
+| OhDeeEsTee | [Inverted XY Bridge](./OhDeeEsTee/Inverted_XY_Bridge) | inverted cable chain mount | :green_heart:
