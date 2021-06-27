@@ -14,6 +14,13 @@ Update the following table with the information about your mod:
   - `:blue_heart:` for :blue_heart: (Intermediate)
   - `:heart:` for :heart: (Advanced)
 
+Suggested directory layout for your mod:
+- `README.md` with a description, optionally build instructions and required parts
+- `stl/` folder with stereolithographical models, oriented correctly for printing
+- `cad/` folder with original design files (STEP, F3D, Scad, etc.) (optional)
+- `doc/` folder with supported documentation (optional)
+- `images/` folder with screen shots/renders/etc.
+
 like so:
 `
 | Creator | [Mod title](link) | Description | Difficulty `
