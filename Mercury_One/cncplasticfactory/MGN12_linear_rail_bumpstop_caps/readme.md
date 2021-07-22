@@ -1,4 +1,4 @@
-Say goodbye to the unsightly ends of your MGN12 linear rails with these delightful bumpstop endcaps, replete with tiny ZeroG logo.
+Say goodbye to the unsightly ends of your Y-axis MGN12 linear rails with these delightful bumpstop endcaps, replete with tiny ZeroG logo.
 
 These also serve a functional purposes of making sure your linear rail carriages cannot de-rail, avoiding a messy train crash.
 
