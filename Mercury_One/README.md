@@ -39,5 +39,5 @@ like so:
 | aepkolol | [rPi 3.5 LCD mount](./aepkolol/rPi-3.5-LCD-mount) | Adafruit 3.5" TFT screen on the front | 💚
 | cncplasticfactory | [EVA KW10 X-axis endstop and bumpstop](./cncplasticfactory/EVA_KW10_X_endstop) | An X-axis endstop mount and bumpstop to use a KW10 microswitch with the EVA hotend | :green_heart:
 | cncplasticfactory | [KW10 enlarged Y-axis endstop mount](./cncplasticfactory/KW10_enlarged_Y_mount) | A modified and slightly enlarged Y-axis endstop mount for use with KW10 microswitches | :green_heart:
-| cncplasticfactory | [MGN12 bumpstop endcaps](./cncplasticfactory/MGN12_linear_rail_bumpstop_caps) | Delightful bumpstops caps for the ends of MGN12 linear rails | :green_heart:
+| cncplasticfactory | [MGN12 bumpstop endcaps](./cncplasticfactory/MGN12_linear_rail_bumpstop_caps) | Delightful bumpstops caps for Y-axis MGN12 linear rails | :green_heart:
 | OhDeeEsTee | [Inverted XY Bridge](./OhDeeEsTee/Inverted_XY_Bridge) | inverted cable chain mount | :green_heart:
