@@ -11,3 +11,6 @@ The 'cover' has a 1mm overhang onto the rail, given a lot of Chinese linear rail
 The 'covers' can be printed (oriented as they are used) without supports assuming your printer can manage short bridges. 
 
 You may be able print the 'stoppers' without supports (oriented as they are used) if your printer can manage decent overhangs. Mine can't when printing ABS, so I printed the stoppers upside down with a small support from build plate where the inset is for the head of the M3 bolt.
+
+![MGN12 Bumpstop endcap render](https://raw.githubusercontent.com/cncplasticfactory/UserMods/main/Mercury_One/cncplasticfactory/MGN12_linear_rail_bumpstop_caps/images/MGN12_linear_rail_bumpstop_cap_render.png) 
+![MGN12 Bumpstop endcap photo](https://raw.githubusercontent.com/cncplasticfactory/UserMods/main/Mercury_One/cncplasticfactory/MGN12_linear_rail_bumpstop_caps/images/MGN12_linear_rail_bumpstop_cap_photo.png)
