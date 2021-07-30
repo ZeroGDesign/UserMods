@@ -40,4 +40,5 @@ like so:
 | cncplasticfactory | [EVA KW10 X-axis endstop and bumpstop](./cncplasticfactory/EVA_KW10_X_endstop) | An X-axis endstop mount and bumpstop to use a KW10 microswitch with the EVA hotend | :green_heart:
 |  | [KW10 enlarged Y-axis endstop mount](./cncplasticfactory/KW10_enlarged_Y_mount) | A modified and slightly enlarged Y-axis endstop mount for use with KW10 microswitches | :green_heart:
 |  | [MGN12 Y-axis bumpstop endcaps](./cncplasticfactory/MGN12_linear_rail_bumpstop_caps) | Delightful bumpstops caps for Y-axis MGN12 linear rails | :green_heart:
+| maze | [2020 endcap](./maze/2020-endcap) | Zero G branded 2020 endcap | :green_heart:
 | OhDeeEsTee | [Inverted XY Bridge](./OhDeeEsTee/Inverted_XY_Bridge) | inverted cable chain mount | :green_heart:
