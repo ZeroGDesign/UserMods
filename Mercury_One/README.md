@@ -43,4 +43,4 @@ like so:
 |  | [MGN12 Y-axis bumpstop endcaps](./cncplasticfactory/MGN12_linear_rail_bumpstop_caps) | Delightful bumpstops caps for Y-axis MGN12 linear rails | :green_heart:
 | maze | [2020 endcap](./maze/2020-endcap) | Zero G branded 2020 endcap | :green_heart:
 | OhDeeEsTee | [Inverted XY Bridge](./OhDeeEsTee/Inverted_XY_Bridge) | inverted cable chain mount | :green_heart:
-| Rudra | [X Extrusion Squaring Tool](./Rudra/X_Extrusion_Squaring_Tool) | Simple tool to square the x extrusion to the frame | 💚
+| Rudra | [X Extrusion Squaring Tool](./Rudra/X Extrusion Squaring Tool) | Simple tool to square the x extrusion to the frame | 💚
