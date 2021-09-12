@@ -8,10 +8,10 @@ Instructions for use:
 1) Loosen belts and x extrusion mounting bolts.
 
 2) Bolt onto the x extrusion:
-![image](https://user-images.githubusercontent.com/30688588/133002605-3d3983af-2129-46ec-8e39-f9ab3eedf5c0.png)
+![image](https://user-images.githubusercontent.com/30688588/133002688-e6b65c8a-ef6d-45f9-b45d-6bd37774a53c.png)
 
 3) Bolt onto the frame:
-![image](https://user-images.githubusercontent.com/30688588/133002442-791f621b-d93f-481a-84ad-f9b42f42127b.png)
+![image](https://user-images.githubusercontent.com/30688588/133002679-3b253b05-30cf-4212-b3dc-e26690591edb.png)
 
 4) Tighten the x extrusion mounting bolts.
 
