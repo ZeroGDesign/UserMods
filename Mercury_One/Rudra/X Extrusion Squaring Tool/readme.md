@@ -1,6 +1,9 @@
 Simple tool to square the x extrusion to the frame of the printer.
+
 Can be used with belts on or off and while the printhead is installed (both afterburner and EVA). 
+
 Uses 6 M5x8 or M5x10 bolts and 6 T-nuts (3 per tool).
+
 Make sure to print out two of these.
 
 Instructions for use:
