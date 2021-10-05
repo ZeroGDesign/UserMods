@@ -44,4 +44,4 @@ like so:
 | maze | [2020 endcap](./maze/2020-endcap) | Zero G branded 2020 endcap | :green_heart:
 | OhDeeEsTee | [Inverted XY Bridge](./OhDeeEsTee/Inverted_XY_Bridge) | inverted cable chain mount | :green_heart:
 | Rudra | [X Extrusion Squaring Tool](./Rudra/X_Extrusion_Squaring_Tool) | Simple tool to square the x extrusion to the frame | 💚
-| Rudra | [Belt Tensioning Tool](./Rudra/Belt_Tensioning_Tool) | Simple tool to ensure a 150mm distance from idler to idler for easy belt tensioning | 💚
+|  | [Belt Tensioning Tool](./Rudra/Belt_Tensioning_Tool) | Simple tool to ensure a 150mm distance from idler to idler for easy belt tensioning | 💚
