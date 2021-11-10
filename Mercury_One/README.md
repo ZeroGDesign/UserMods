@@ -34,7 +34,7 @@ like so:
 ---
 
 | Creator | Mod title | Description | Difficulty
-| --- | --- | --- | --- | 
+| --- | --- | --- | --- |
 | *creator_name* | [*Mod Title*](./creator_here/mod_folder_name) | *Example description (short).* |:green_heart::blue_heart::heart:
 | aepkolol | [rPi 3.5 LCD mount](./aepkolol/rPi-3.5-LCD-mount) | Adafruit 3.5" TFT screen on the front | 💚
 | bertoo1337 | [AfterBurner fan shroud](./bertoo1337/AfterBurner_fan_shroud) | Mercury branded fan shroud for the Voron AfterBurner toolhead | 💙
@@ -45,3 +45,4 @@ like so:
 | OhDeeEsTee | [Inverted XY Bridge](./OhDeeEsTee/Inverted_XY_Bridge) | inverted cable chain mount | :green_heart:
 | Rudra | [X Extrusion Squaring Tool](./Rudra/X_Extrusion_Squaring_Tool) | Simple tool to square the x extrusion to the frame | 💚
 |  | [Belt Tensioning Tool](./Rudra/Belt_Tensioning_Tool) | Simple tool to ensure a 150mm distance from idler to idler for easy belt tensioning | 💚
+| djsplice | [EVA - Biqu H2 Mount](./djsplice/EVA-Biqu-H2) | EVA Faceplate and fan shroud for the Biqu H2 hotend/extruder | 💚
