@@ -36,6 +36,7 @@ like so:
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- |
 | *creator_name* | [*Mod Title*](./creator_here/mod_folder_name) | *Example description (short).* |:green_heart::blue_heart::heart:
+| ZeroG | [ZeroG Spool Holder](./aepkolol/rPi-3.5-LCD-mount) | Adafruit 3.5" TFT screen on the front | 💚
 | aepkolol | [rPi 3.5 LCD mount](./aepkolol/rPi-3.5-LCD-mount) | Adafruit 3.5" TFT screen on the front | 💚
 | bertoo1337 | [AfterBurner fan shroud](./bertoo1337/AfterBurner_fan_shroud) | Mercury branded fan shroud for the Voron AfterBurner toolhead | 💙
 | cncplasticfactory | [EVA KW10 X-axis endstop and bumpstop](./cncplasticfactory/EVA_KW10_X_endstop) | An X-axis endstop mount and bumpstop to use a KW10 microswitch with the EVA hotend | :green_heart:
