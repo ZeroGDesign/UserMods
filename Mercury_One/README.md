@@ -46,3 +46,4 @@ like so:
 | Rudra | [X Extrusion Squaring Tool](./Rudra/X_Extrusion_Squaring_Tool) | Simple tool to square the x extrusion to the frame | 💚
 |  | [Belt Tensioning Tool](./Rudra/Belt_Tensioning_Tool) | Simple tool to ensure a 150mm distance from idler to idler for easy belt tensioning | 💚
 | djsplice | [EVA - Biqu H2 Mount](./djsplice/EVA-Biqu-H2) | EVA Faceplate and fan shroud for the Biqu H2 hotend/extruder | 💚
+| djsplice | [Static Cooling System](./djsplice/SCS) | Static Cooling System for the Mercury 1.1 based on VzBoT RSCS system| 💚
