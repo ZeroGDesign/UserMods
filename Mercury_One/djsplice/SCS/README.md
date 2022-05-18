@@ -46,9 +46,9 @@ I recommend using the the following print settings:
 * 3 Perimeters and 4 bottom/top solid layers
 * 40% infill
 
-All printed parts are included in the /STL folder - there are 5 parts:
+All printed parts are included in the STL folder - there are 5 parts:
 
-* [Fan Duct Output - 175mm.stl](stl/Bed%20Duct%20Output%20-%20175mm.stl)
+* [Fan Duct.stl](stl/Fan%20Duct.stl)
 * [Fan Extension.stl](stl/Fan%20Extension.stl)
 * [Fan Bracket.stl](stl/Fan%20Bracket.stl)
 * [Fan Shroud.stl](stl/Fan%20Shroud.stl)
