@@ -1,5 +1,5 @@
 # Super Cooling System
-This work is based on the [VzBoT RSCS system](https://grabcad.com/library/rscs-for-vzbot-1). Big thanks to the VzBoT crew, espcially [Simon Vezina](https://grabcad.com/simon.vezina-2) for providing all of the CAD drawings and awesome videos for information, inspiration, and acceleration!
+This work is based on the [VzBoT RSCS system](https://grabcad.com/library/rscs-for-vzbot-1). Big thanks to the VzBoT crew, especially [Simon Vezina](https://grabcad.com/simon.vezina-2) for providing all of the CAD drawings and awesome videos for information, inspiration, and acceleration!
 
 ![Much SCS](./img/SCS.png)
 
@@ -29,7 +29,7 @@ All printed files are found in the STL folder, CAD files *soon
 
 This design works for the Ender 5 Pro, just fits between the top 2020 extrusion and a 300mm bed. If you have a smaller bed, or the Ender 5 Plus it should fit, though for the plus it may be a bit too far away from the bed, or not provide great part coverage... Drop an issue in Github if you get a chance to test it!
 
-You will neee M3 screws, 2 fans, and the ability to print 15mm overhans clearly - you can do it - or your money back!   
+You will need M3 screws, 2 fans, and the ability to print 15mm overhangs clearly - you can do it - or your money back!   
 
 ### Hardware
 * 2x 120x35 centrifugal fans - make sure they match the voltage and pin  configuration your board can work with!
@@ -38,7 +38,7 @@ You will neee M3 screws, 2 fans, and the ability to print 15mm overhans clearly 
  * 2x 40mm bolts to affix fan and shroud to mount
  * 2x 10mm M3 bolts to connect the fan mount and fan extension
  * 2x 6mm M3 bolts to connect the fan shroud to the fan extension
- * 2x 16mm M3 bolts to connect the entire system to the underisde of 2020 Aluminum extrusion
+ * 2x 16mm M3 bolts to connect the entire system to the underside of 2020 Aluminum extrusion
 * Roll In Spring T-Nuts for mounting the blower to the top 2020 extrusions-  - something like [these](https://8020.net/fasteningmethods/hardware/tnuts/rollin/rollintnutwithballspring.html)
 
 ### Printed Parts
@@ -48,11 +48,11 @@ I recommend using the the following print settings:
 
 All printed parts are included in the /STL folder - there are 5 parts:
 
-* [Fan Duct Output - 175mm.stl](./stl/Bed%20Duct%20Output%20-%20175mm.stl)
-* [Fan Extension.stl](./stl/Fan%20Extension.stl)
-* [Fan Bracket.stl](./stl/Fan%20Bracket.stl)
-* [Fan Shroud.stl](./stl/Fan%20Shroud.stl)
-* 2x [Spacers.stl](./stl/Spacers.stl)
+* [Fan Duct Output - 175mm.stl](stl/Bed%20Duct%20Output%20-%20175mm.stl)
+* [Fan Extension.stl](stl/Fan%20Extension.stl)
+* [Fan Bracket.stl](stl/Fan%20Bracket.stl)
+* [Fan Shroud.stl](stl/Fan%20Shroud.stl)
+* 2x [Spacers.stl](stl/Spacers.stl)
 
 
 ### Installation
@@ -62,16 +62,16 @@ All printed parts are included in the /STL folder - there are 5 parts:
 1. Using roll-in t-nuts will allow you to tilt the duct and get them inserted under the 2020 extrusion
 1. Center the duct so that it's in the middle of your print bed
 1. Once the duct is hanging from the 2020 extrusions, insert the spacers between the the extrusion and the duct mount, and tighten the bolts
-1. Mount the Fan Duct Ouput on top of the Fan Extension.
+1. Mount the Fan Duct Output on top of the Fan Extension.
 3. Mount the fan and the shroud
 
 The base of Fan Duct Output should align with the base of your print bed - the idea is for the air to blow onto the top layer of your print, if it's too high above the bed, it won't be as effective.
 
-You may need to adjust the height of the spacers to acheive optimal alignment for your printer.
-[TODO] Add a few more spacer sizes to acommodate
+You may need to adjust the height of the spacers to achieve optimal alignment for your printer.
+[TODO] Add a few more spacer sizes to accommodate
 
 ### Klipper gcode macro example
-Configure Klipper to control the fans and expose a Gcode macro so it can be controlled by your slicer.
+Configure Klipper to control the fans and expose a GCode macro so it can be controlled by your slicer.
 
 #### Klipper Fan configuration
 ```
