@@ -32,7 +32,7 @@ This design works for the Ender 5 Pro, just fits between the top 2020 extrusion 
 You will need M3 screws, 2 fans, and the ability to print 15mm overhangs clearly - you can do it - or your money back!   
 
 ### Hardware
-* 2x 120x35 centrifugal fans - make sure they match the voltage and pin  configuration your board can work with!
+* 2x 120x32 centrifugal fans - make sure they match the voltage and pin configuration your board can work with!
  * Ability to crimp, solder, or otherwise connect the fans to your 3D printer controller board
 * Various M3 bolts/nuts:
  * 2x 40mm bolts to affix fan and shroud to mount
