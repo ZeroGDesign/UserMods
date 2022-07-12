@@ -52,10 +52,10 @@ I recommend using the the following print settings:
 
 All printed parts are included in the STL folder - there are 5 parts:
 
-* [Fan Duct.stl](stl/Fan%20Duct.stl)
-* [Fan Extension.stl](stl/Fan%20Extension.stl)
-* [Fan Bracket.stl](stl/Fan%20Bracket.stl)
-* [Fan Shroud.stl](stl/Fan%20Shroud.stl)
+* [Fan Duct.stl](stl/Fan_Duct.stl)
+* [Fan Extension.stl](stl/Fan_Extension.stl)
+* [Fan Bracket.stl](stl/Fan_Bracket.stl)
+* [Fan Shroud.stl](stl/Fan_Shroud.stl)
 * 2x [Spacers.stl](stl/Spacers.stl)
 
 
