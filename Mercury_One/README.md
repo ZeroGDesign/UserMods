@@ -36,13 +36,15 @@ like so:
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- |
 | *creator_name* | [*Mod Title*](./creator_here/mod_folder_name) | *Example description (short).* |:green_heart::blue_heart::heart:
+| ZeroG | [Spool Holder](./ZeroG/Spool_holder) | Its a spool holder... Its holds spools? | 💚
 | aepkolol | [rPi 3.5 LCD mount](./aepkolol/rPi-3.5-LCD-mount) | Adafruit 3.5" TFT screen on the front | 💚
 | bertoo1337 | [AfterBurner fan shroud](./bertoo1337/AfterBurner_fan_shroud) | Mercury branded fan shroud for the Voron AfterBurner toolhead | 💙
 | cncplasticfactory | [EVA KW10 X-axis endstop and bumpstop](./cncplasticfactory/EVA_KW10_X_endstop) | An X-axis endstop mount and bumpstop to use a KW10 microswitch with the EVA hotend | :green_heart:
 |  | [KW10 enlarged Y-axis endstop mount](./cncplasticfactory/KW10_enlarged_Y_mount) | A modified and slightly enlarged Y-axis endstop mount for use with KW10 microswitches | :green_heart:
 |  | [MGN12 Y-axis bumpstop endcaps](./cncplasticfactory/MGN12_linear_rail_bumpstop_caps) | Delightful bumpstops caps for Y-axis MGN12 linear rails | :green_heart:
+| djsplice | [EVA - Biqu H2 Mount](./djsplice/EVA-Biqu-H2) | EVA Faceplate and fan shroud for the Biqu H2 hotend/extruder | 💚
+|  | [Static Cooling System](./djsplice/SCS) | Static Cooling System for the Mercury 1.1 based on VzBoT RSCS system | 💚
 | maze | [2020 endcap](./maze/2020-endcap) | Zero G branded 2020 endcap | :green_heart:
 | OhDeeEsTee | [Inverted XY Bridge](./OhDeeEsTee/Inverted_XY_Bridge) | inverted cable chain mount | :green_heart:
 | Rudra | [X Extrusion Squaring Tool](./Rudra/X_Extrusion_Squaring_Tool) | Simple tool to square the x extrusion to the frame | 💚
 |  | [Belt Tensioning Tool](./Rudra/Belt_Tensioning_Tool) | Simple tool to ensure a 150mm distance from idler to idler for easy belt tensioning | 💚
-| djsplice | [EVA - Biqu H2 Mount](./djsplice/EVA-Biqu-H2) | EVA Faceplate and fan shroud for the Biqu H2 hotend/extruder | 💚
