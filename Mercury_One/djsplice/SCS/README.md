@@ -3,6 +3,10 @@ This work is based on the [VzBoT RSCS system](https://grabcad.com/library/rscs-f
 
 ![Much SCS](./img/SCS.png)
 
+## Release History
+7/11/22 - Updated fan bracket and shroud to cover more of the fans output. Increase overall fan bracket thickness improving mounting stability. Thanks to dansxmods#0246 (ZeroG Discord Server) for the suggestion!
+5/26/22 - Initial Release
+
 ## What's SCS?
 This is a system that's meant to cool top layer 3D printed extrusions quickly, helping you up the brrrr with better quality prints.
 
