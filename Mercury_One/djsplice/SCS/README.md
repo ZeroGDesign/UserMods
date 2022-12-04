@@ -4,8 +4,9 @@ This work is based on the [VzBoT RSCS system](https://grabcad.com/library/rscs-f
 ![Much SCS](./img/SCS.png)
 
 ## Release History
-7/11/22 - Updated fan bracket and shroud to cover more of the fans output. Increase overall fan bracket thickness improving mounting stability. Thanks to dansxmods#0246 (ZeroG Discord Server) for the suggestion!
-5/26/22 - Initial Release
+* 12/04/22 - Improved fan bracket airflow, and eliminated the need for the extension. Made shorter duct and increased inner cavity for improved airflow. Added a 'press-fit' Z for some flair.
+* 7/11/22 - Updated fan bracket and shroud to cover more of the fans output. Increase overall fan bracket thickness improving mounting stability. Thanks to dansxmods#0246 (ZeroG Discord Server) for the suggestion!
+* 5/26/22 - Initial Release
 
 ## What's SCS?
 This is a system that's meant to cool top layer 3D printed extrusions quickly, helping you up the brrrr with better quality prints.
@@ -40,7 +41,6 @@ You will need M3 screws, 2 fans, and the ability to print 15mm overhangs clearly
  * Ability to crimp, solder, or otherwise connect the fans to your 3D printer controller board
 * Various M3 bolts/nuts:
  * 2x 40mm bolts to affix fan and shroud to mount
- * 2x 10mm M3 bolts to connect the fan mount and fan extension
  * 2x 6mm M3 bolts to connect the fan shroud to the fan extension
  * 2x 16mm M3 bolts to connect the entire system to the underside of 2020 Aluminum extrusion
 * Roll In Spring T-Nuts for mounting the blower to the top 2020 extrusions-  - something like [these](https://8020.net/fasteningmethods/hardware/tnuts/rollin/rollintnutwithballspring.html)
@@ -53,14 +53,13 @@ I recommend using the the following print settings:
 All printed parts are included in the STL folder - there are 5 parts:
 
 * [Fan Duct.stl](stl/Fan_Duct.stl)
-* [Fan Extension.stl](stl/Fan_Extension.stl)
+* [Z-Insert.stl](stl/Z-Insert.stl)
 * [Fan Bracket.stl](stl/Fan_Bracket.stl)
 * [Fan Shroud.stl](stl/Fan_Shroud.stl)
 * 2x [Spacers.stl](stl/Spacers.stl)
 
 
 ### Installation
-1. Connect the Fan Bracket and Fan Extension together using the M3 10mm screws.
 1. Thread the M3 6mm screws that will be used to attach the fan duct, let the screws protude slightly from the top so it's easier to mount the duct later. The screws will thread directly into the duct housing - no nuts necessary.
 1. Insert the M3 16mm screws that will be used to mount the system to the underside of the 2020 extrusion, thread the t-nuts
 1. Using roll-in t-nuts will allow you to tilt the duct and get them inserted under the 2020 extrusion
