@@ -73,9 +73,9 @@ Images
 
 ## Help
 
-*Due to the tight clearances, recommend this part to be printed on a properly calibrated printer
-*I DO NOT recommend scaling the parts via a slicer as you may have issues with fitment
-*Please reach out to me directly on discord if you have any issues or sugestions for this Mod 
+* Due to the tight clearances, I recommend this part to be printed on a properly calibrated printer
+* I DO NOT recommend scaling the parts via a slicer as you may have issues with fitment
+* Please reach out to me directly on discord if you have any issues or sugestions for this Mod 
 
 ## Authors
 
