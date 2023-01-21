@@ -19,7 +19,7 @@ M5x12mm BHCS | 2 | Needed for Rear Mount
 M5x25mm BHCS | 2 | Needed for Inside Mount
 M3x6MM BHCS | 8 | Needed to secure lid
 M3x4mmx5mm Heatsets | 8 | Needed to secure lid
-M5 T-NUT | 6 | You should have 2 existing T-nuts from Original BOM
+M5 T-Nut | 6 | You should have at least 4 existing T-nuts from the Original BOM
 M5x20mm SHCS | 2 | From Original BOM
 M5x30mm PIN | 2 | From Original BOM
 M5x1mm Shim | 4 | From Original BOM
