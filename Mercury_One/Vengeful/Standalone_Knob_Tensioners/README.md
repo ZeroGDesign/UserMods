@@ -2,6 +2,8 @@
 
 This mod is desinged to provide a simple and sturdy solution for tensioning belts on the Ender 5 Plus(Need confirmation for the Ender 5) Mercury 1 and Mercury 1.1 Systems
 
+!['Adjustable' mode](https://github.com/Vprince099/UserMods/blob/70ca9a4ffd59bd3d6dac79b1b4dd776309475bd6/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/Showcase_Image.PNG)
+
 ## Description
 
 This Mod is derived from the enclosure project I am currently working on (Jan-2023). In order to provide a version that can be used by the entire Mercury community. I have forked the design and will upload the enclosure version once I am done. This inspired by the Voron V0. This provides a sturdy solution for tensioning your belt while maintaing a design that allows clearance for an enclosure.  
