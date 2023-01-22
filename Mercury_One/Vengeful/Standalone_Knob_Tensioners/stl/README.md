@@ -1,6 +1,6 @@
 ### List of files:
 
-Part Name | Quantity | Notes
+File Name | Part Name | Quantity | Notes
 | :--- | :--- | :---: | :---
  | Tensioner Knob | 2 | Same part is used on both sides 
  | Left Frame | 1 | 
