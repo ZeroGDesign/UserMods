@@ -1,2 +1,3 @@
 Credit to VzBot for the original design:  https://github.com/VzBoT3D/VzBoT-Vz330![Frame_Brace_Zerog]
-(https://user-images.githubusercontent.com/62314433/221419752-d2373987-1d60-4f8a-afe9-80713ebe9a00.png)
+
+![image](https://user-images.githubusercontent.com/62314433/221419794-74958a71-63af-406b-bd20-4bbab91bf3ba.png)
