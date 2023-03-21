@@ -48,3 +48,4 @@ like so:
 | OhDeeEsTee | [Inverted XY Bridge](./OhDeeEsTee/Inverted_XY_Bridge) | inverted cable chain mount | :green_heart:
 | Rudra | [X Extrusion Squaring Tool](./Rudra/X_Extrusion_Squaring_Tool) | Simple tool to square the x extrusion to the frame | 💚
 |  | [Belt Tensioning Tool](./Rudra/Belt_Tensioning_Tool) | Simple tool to ensure a 150mm distance from idler to idler for easy belt tensioning | 💚
+| JohnJohnGib | [ZeroG frame corner braces](./Tomadoggy/ZeroG_Frame_Braces) | Its a spool holder... Its holds spools? | 💚
