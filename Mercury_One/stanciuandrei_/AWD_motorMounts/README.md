@@ -1,3 +1,5 @@
+# AWD Mercury1.1 mod
+<img src="AWD_render.PNG">
 I have a design for front mounted motors for AWD to replace the belt tensioners.
 
 # BOM:
@@ -15,3 +17,5 @@ I have a design for front mounted motors for AWD to replace the belt tensioners.
 | motors like the one you use in the back to match | 2 |
 | stepper drivers available to drive the extra motors | 2 |
 
+Aproximate BOM visualised (I have 2 wong bolts in the picture and 4 extra shims)
+<img src="BOM.jpg">
