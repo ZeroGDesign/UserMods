@@ -120,7 +120,6 @@ rotation_distance: 40
 cs_pin: PD3
 spi_software_sclk_pin: PC6
 spi_software_mosi_pin: PC8
-
 spi_software_miso_pin: PC7
 #diag1_pin: PF2
 run_current: 1.400
