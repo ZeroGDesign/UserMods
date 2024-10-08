@@ -4,7 +4,8 @@
 | Type | Quantity |
 | --- | --- |
 | M5 X 8 | 4 |
-| M5 X 15 | 4 |
+| M5 X 15 SCHS | 2 |
+| M5 x 15 BCHS | 2 |
 | M5 Hexnut | 2 |
 | M5 Tnuts | 4 |
 | M3 X 8 | 8 |
