@@ -1,6 +1,6 @@
 # Hybrid CoreXY Mod
 
-![Full Assembly](IMAGES/Full_Assembly.png)
+![Full Assembly](IMAGES/Full_Assembly_5Plus.png)
 
 # BOM:
 | Type | Quantity | Link |
