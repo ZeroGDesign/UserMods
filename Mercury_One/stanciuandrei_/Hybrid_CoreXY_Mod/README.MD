@@ -1,5 +1,7 @@
 # Hybrid CoreXY Mod
 
+![Full Assembly](IMAGES/Full_Assembly.png)
+
 # BOM:
 | Type | Quantity | Link |
 | --- | --- | --- |
