@@ -3,19 +3,19 @@
 
 
 # BOM:
-| Type | Quantity |
-| --- | --- |
-| bolts - Misumi MSB5-40 | 8 |
-| shims (12x6x1mm like the ones in the kit) (6 you can extract from the tensioners) | 18 |
-| F695-2RS bearings(4 are in the tensioners) | 12 |
-| 5x30 shafts (the ones from the tensioners) | 2 |
-| M5x20 screws(from the tensioners) | 2 |
-| M3 heat set inserts (from the tensioners) | 2 |
-| 8.5mm gt2 20 tooth pulley | 2 |
-| meters (20 feet) gt2 6mm belts(I use gates gates 6mm 2gt-rf belt) | 6 |
-| GT2 20 tooth motor pulley for 6mm belt 5mm shaft | 2 |
-| motors like the one you use in the back to match | 2 |
-| stepper drivers available to drive the extra motors | 2 |
+| Type | Quantity | Link |
+| --- | --- | --- |
+| Shoulder skrews 40mm long 5mm shaft with M3 thread | 8 | [Aliexpress](https://www.aliexpress.com/item/1005004802215831.html) |
+| M5 1mm shims (6 you can extract from the tensioners) | 18 |  |
+| F695-2RS bearings(4 are in the tensioners) | 12 | [Kit of 10 Aliexpress](https://www.aliexpress.com/item/32850989216.html) |
+| 5x30 shafts (the ones from the tensioners) | 2 |  |
+| M5x20 screws(from the tensioners) | 2 |  |
+| M3 heat set inserts (from the tensioners) | 2 |  |
+| 8.5mm gt2 20 tooth pulley | 2 | [Mellow](https://www.aliexpress.com/item/1005004374407134.html?spm=a2g0o.order_list.order_list_main.24.21ef1802NFrx61) |
+| gt2 6mm belts(I use gates gates 6mm 2gt-rf belt) | 6 Meters | [TriangleLab](https://www.aliexpress.com/item/1005006507781085.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.1ebaId4bId4bJ2&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=8cab5cd5-2cb5-4df6-88f0-f8fb543ab826&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:8cab5cd5-2cb5-4df6-88f0-f8fb543ab826,tpp_buckets:668%232846%238111%231996&pdp_npi=4%40dis%21RON%2139.32%2139.32%21%21%218.45%218.45%21%40211b698e17286817196807058e861e%2112000037754698142%21rec%21RO%21921752181%21X&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A) |
+| GT2 20 tooth motor pulley for 6mm belt 5mm shaft | 2 | [Mellow](https://www.aliexpress.com/item/33002989677.html?spm=a2g0o.store_pc_home.0.0.4c6c3378bdigwy&pdp_npi=4%40dis%21RON%21RON%2029.03%21RON%204.61%21%21%216.24%210.99%21%40%2167022731524%21sh%21%21%21) |
+| motors like the one you use in the back to match | 2 | [Biqu](https://biqu.equipment/products/ldo-42sth48-2504ac-reva-motor-driver?variant=39991585636450) |
+| stepper drivers available to drive the extra motors | 2 |  |
 
 Aproximate BOM visualised (I have 2 wong bolts in the picture and 4 extra shims)
 <img src="BOM.jpg">
