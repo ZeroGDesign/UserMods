@@ -51,3 +51,5 @@ like so:
 | DrPeterPlastic | [Wago4-Mount](./DrPeterPlastic/Wago4-Mount-Hydra)  | Mount for 4 Wagos on Hydra | 💚
 | Vengeful | [Klicky Mount](./Vengeful/Klicky_Bracket) | E5 Plus Mounting Bracket for Klicky mod| 💚
 |  | [Standalone Knob Tensioner](./Vengeful/Standalone_Knob_Tensioners) | Knob Tensioners for Mecrury Printers| 💙
+| hrt_plk | [MGN9H gantry](./hrt_plk/gantry-mgn9h) | Custom parts to replace y axis from MGN12 to MGN9 | 💚
+
