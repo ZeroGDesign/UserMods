@@ -1,1 +1,0 @@
-inverted bridge stl

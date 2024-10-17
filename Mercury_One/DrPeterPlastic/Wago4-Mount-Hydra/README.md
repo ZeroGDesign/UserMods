@@ -1,1 +1,0 @@
-Mount for 4 Wago connectors instead of 3
