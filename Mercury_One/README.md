@@ -49,3 +49,5 @@ like so:
 | Rudra | [X Extrusion Squaring Tool](./Rudra/X_Extrusion_Squaring_Tool) | Simple tool to square the x extrusion to the frame | 💚
 |  | [Belt Tensioning Tool](./Rudra/Belt_Tensioning_Tool) | Simple tool to ensure a 150mm distance from idler to idler for easy belt tensioning | 💚
 | DrPeterPlastic | [Wago4-Mount](./DrPeterPlastic/Wago4-Mount-Hydra)  | Mount for 4 Wagos on Hydra | 💚
+| Vengeful | [Klicky Mount](./Vengeful/Klicky_Bracket) | E5 Plus Mounting Bracket for Klicky mod| 💚
+|  | [Standalone Knob Tensioner](./Vengeful/Standalone_Knob_Tensioners) | Knob Tensioners for Mecrury Printers| 💙
