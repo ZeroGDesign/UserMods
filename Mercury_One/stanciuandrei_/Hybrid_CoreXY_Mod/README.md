@@ -47,7 +47,7 @@ When you configure Stepper c use the min max and position endstop from stepper y
 For more details check the github for the [klipper-extended-corexy-kinematic](https://github.com/SnakeOilXY/klipper-extended-corexy-kinematic)
 or join the official ZeroG discord and ask in the community tab in Hybrid CoreXY Mod.
 
-My config as an example (AWD and hybrid):
+My config as an example (AWD and hybrid ignore the stepper_a1 and stepper_b1 for non AWD):
 ```
 [printer]
 kinematics: extended_corexy
