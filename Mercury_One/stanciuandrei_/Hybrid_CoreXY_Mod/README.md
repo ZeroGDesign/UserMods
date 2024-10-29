@@ -2,7 +2,7 @@
 
 ![Full Assembly](IMAGES/Full_Assembly_5Plus.png)
 
-This mod is compatible with the pro and the plus. Also with the AWD mod.
+This mod is compatible with the pro and the plus, hydra or stock bed without sacrificing any build space. Also with the AWD mod.
 
 # BOM:
 | Type | Quantity | Link |
