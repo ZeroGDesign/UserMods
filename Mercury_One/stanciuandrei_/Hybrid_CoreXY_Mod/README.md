@@ -2,6 +2,8 @@
 
 ![Full Assembly](IMAGES/Full_Assembly_5Plus.png)
 
+This mod is compatible with the pro and the plus. Also with the AWD mod.
+
 # BOM:
 | Type | Quantity | Link |
 | --- | --- | --- |
@@ -20,14 +22,29 @@
 
 # Build Instructions
 
-Print 2 of each part.
-Use the STEP file as a guide for now.
+Print 2 Motor Mounts, 2 carriages, 2 belt tensioners and the left and right idlers.
 
-If you need the complete printer Step file:
-[Google Drive](https://drive.google.com/drive/folders/1JWK472jU93EAyBIhbbjy0hZeC85UmXEd?usp=sharing)
+---
 
-If not use the one in the STEP folder
+Motor Assembly:
 
+![Motor Assembly](IMAGES/Motor_Mount.gif)
+
+---
+
+Idler Assembly:
+
+![Idler Assembly](IMAGES/Idler.gif)
+
+---
+
+Carriage Assembly:
+
+![Carriage Assembly](IMAGES/Carriage.gif)
+
+---
+
+You can also use the [STEP](STEP/Hybrid_CoreXY_Assembly_5Plus.f3d) file as a guide.
 
 # Printer config
 
