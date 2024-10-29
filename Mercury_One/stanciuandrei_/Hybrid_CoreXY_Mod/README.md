@@ -11,7 +11,7 @@
 | M5 Hexnut | 2 |  |
 | M5 Tnuts | 4 |  |
 | M3 X 8 | 8 |  |
-| M3 X 20 | 2 |  |
+| M3 X 25 | 2 |  |
 | M3 Heatset | 2 |  |
 | Gt2 20T pulley 8.5mm tall| 2 | [Mellow](https://www.aliexpress.com/item/1005004374407134.html?spm=a2g0o.order_list.order_list_main.24.6d0d1802Vq3rAU) |
 | Gt2 20T Motor pulley| 2 | [Mellow](https://www.aliexpress.com/item/33023279793.html?spm=a2g0o.order_list.order_list_main.16.6d0d1802Vq3rAU) |
