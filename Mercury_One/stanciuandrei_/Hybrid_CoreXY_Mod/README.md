@@ -7,7 +7,7 @@
 | --- | --- | --- |
 | M5 X 8 | 4 |  |
 | M5 X 15 SHCS | 2 |  |
-| M5 x 15 BHCS | 2 |  |
+| M5 x 20 BHCS | 2 |  |
 | M5 Hexnut | 2 |  |
 | M5 Tnuts | 4 |  |
 | M3 X 8 | 8 |  |
