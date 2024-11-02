@@ -5,7 +5,7 @@
 # BOM:
 | Type | Quantity | Link |
 | --- | --- | --- |
-| Shoulder skrews 45mm long 5mm shaft with M3 thread ([check picture](IMAGES/Shoulder_skrews.png) ) | 16 | [Aliexpress](https://www.aliexpress.com/item/1005004802215831.html) |
+| Shoulder skrews 50mm long 5mm shaft with M3 thread ([check picture](IMAGES/Shoulder_skrews.png) ) | 16 | [Aliexpress](https://www.aliexpress.com/item/1005004802215831.html) |
 | M5 1mm shims (you have them) | 26 |  |
 | F695-2RS bearings (4 are in the tensioners) | 12 | [Fushi](https://www.aliexpress.com/item/32850989216.html) |
 | 695-2RS bearings | 14 | [Fushi](https://vi.aliexpress.com/item/1005006494478212.html?pdp_npi=4%40dis%21RON%21RON%2041.79%21RON%2036.46%21%21%218.94%217.80%21%402103849717305796856378184e1c41%2112000037409559742%21sh%21RO%21921752181%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007521272189.1005006494478212&gatewayAdapt=glo2vnm) |
