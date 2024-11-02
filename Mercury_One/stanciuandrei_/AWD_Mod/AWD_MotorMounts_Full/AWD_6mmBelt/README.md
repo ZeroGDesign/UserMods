@@ -1,4 +1,4 @@
-# AWD Mercury1.1 mod
+# Full AWD 6mm Mercury1.1 mod
 <img src="IMAGES/AWD_render.PNG">
 
 
