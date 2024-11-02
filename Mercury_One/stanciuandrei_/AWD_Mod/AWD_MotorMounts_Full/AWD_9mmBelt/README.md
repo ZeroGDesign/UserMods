@@ -1,4 +1,4 @@
-# Full AWD Mod 9mm for Mercury1.1
+# Full AWD Double shear Mod 9mm for Mercury1.1
 
 <img src="IMAGES/AWD_Assembly_Front.png">
 
@@ -8,14 +8,14 @@
 | Shoulder skrews 50mm long 5mm shaft with M3 thread ([check picture](IMAGES/Shoulder_skrews.png) ) | 16 | [Aliexpress](https://www.aliexpress.com/item/1005004802215831.html) |
 | M5 1mm shims (you have them) | 26 |  |
 | F695-2RS bearings (4 are in the tensioners) | 12 | [Fushi](https://www.aliexpress.com/item/32850989216.html) |
-| 695-2RS bearings | 14 | [Fushi](https://vi.aliexpress.com/item/1005003141257945.html?pdp_npi=4%40dis%21RON%21RON%2048.29%21RON%2042.07%21%21%2110.33%219.00%21%40210390c217305813520083967e1b2f%2112000024314826797%21sh%21RO%21921752181%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007521272189.1005003141257945&gatewayAdapt=glo2vnm) |
+| 695-2RS bearings | 18 | [Fushi](https://vi.aliexpress.com/item/1005003141257945.html?pdp_npi=4%40dis%21RON%21RON%2048.29%21RON%2042.07%21%21%2110.33%219.00%21%40210390c217305813520083967e1b2f%2112000024314826797%21sh%21RO%21921752181%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007521272189.1005003141257945&gatewayAdapt=glo2vnm) |
 | 5x35 shafts | 6 | [Nindejin](https://vi.aliexpress.com/item/1005002308655979.html?aff_fcid=37d1fe54089a4876821858ee60f2e177-1730579850506-01420-_ATn62e&tt=CPS_NORMAL&aff_fsk=_ATn62e&aff_platform=shareComponent-detail&sk=_ATn62e&aff_trace_key=37d1fe54089a4876821858ee60f2e177-1730579850506-01420-_ATn62e&terminal_id=3db8dc71742443ffb34ffa7b2e123b97&afSmartRedirect=y)  |
 | M5x20 screws (from the tensioners) | 2 |  |
 | M3 heat set inserts (from the tensioners) | 2 |  |
 | 14mm tall gt2 20 tooth pulley | 4 | [Mellow](https://vi.aliexpress.com/item/33023133633.html?spm=a2g0o.order_list.order_list_main.10.4a7018025MX7dW&gatewayAdapt=glo2vnm) |
 | gt2 9mm belts | 6 Meters | [TriangleLab](https://www.aliexpress.com/item/1005006507781085.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.1ebaId4bId4bJ2&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=8cab5cd5-2cb5-4df6-88f0-f8fb543ab826&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:8cab5cd5-2cb5-4df6-88f0-f8fb543ab826,tpp_buckets:668%232846%238111%231996&pdp_npi=4%40dis%21RON%2139.32%2139.32%21%21%218.45%218.45%21%40211b698e17286817196807058e861e%2112000037754698142%21rec%21RO%21921752181%21X&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A) |
 | GT2 20 tooth motor pulley for 9mm (or 10mm) belt and 5mm shaft | 4 | [Mellow](https://vi.aliexpress.com/item/33023279793.html?spm=a2g0o.order_list.order_list_main.17.4a7018025MX7dW&gatewayAdapt=glo2vnm) |
-| motors like the one you use in the back to match | 2 | [Biqu](https://biqu.equipment/products/ldo-42sth48-2504ac-reva-motor-driver?variant=39991585636450) |
+| Motors with minimum 46mm shaft | 4 | [Aliexpress](https://vi.aliexpress.com/item/1005007500807396.html?albagn=888888&src=google&albch=search&acnt=479-062-3723&isdl=y&aff_short_key=UneMJZVf&albcp=266121556&albag=7593673036&slnk=&trgt=dsa-42862830006&plac=&crea=426823514858&netw=g&device=c&mtctp=&memo1=&albbt=Google_7_search&aff_platform=google&gad_source=1&gclid=Cj0KCQjwm5e5BhCWARIsANwm06huKdNWoH0n8Cx88NOv_msoJZvB9BMcmuCRG-fHRwEBtKgrVVzhDBIaApW0EALw_wcB&gclsrc=aw.ds&gatewayAdapt=glo2vnm) |
 | stepper drivers available to drive the extra motors | 2 |  |
 
 Aproximate BOM visualised (I have 2 wong bolts in the picture and 4 extra shims)
