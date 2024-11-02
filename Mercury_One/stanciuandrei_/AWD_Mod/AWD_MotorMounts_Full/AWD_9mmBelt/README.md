@@ -3,6 +3,7 @@
 <img src="IMAGES/AWD_Assembly_Front.png">
 
 # BOM:
+Some parts will not be mentioned because they come with the mercury kit.
 | Type | Quantity | Link |
 | --- | --- | --- |
 | Shoulder skrews 50mm long 5mm shaft with M3 thread ([check picture](IMAGES/Shoulder_skrews.png) ) | 16 | [Aliexpress](https://www.aliexpress.com/item/1005004802215831.html) |
