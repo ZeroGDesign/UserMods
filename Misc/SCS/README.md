@@ -1,7 +1,7 @@
 # Super Cooling System
 This work is based on the [VzBoT RSCS system](https://grabcad.com/library/rscs-for-vzbot-1). Big thanks to the VzBoT crew, especially [Simon Vezina](https://grabcad.com/simon.vezina-2) for providing all of the CAD drawings and awesome videos for information, inspiration, and acceleration!
 
-![Much SCS](./img/SCS.png)
+![Much SCS](images/SCS.png)
 
 ## Release History
 * 12/04/22 - Improved fan bracket airflow, and eliminated the need for the extension. Made shorter duct and increased inner cavity for improved airflow. Added a 'press-fit' Z for some flair.
@@ -52,11 +52,11 @@ I recommend using the the following print settings:
 
 All printed parts are included in the STL folder - there are 5 parts:
 
-* [Fan Duct.stl](stl/Fan_Duct.stl)
-* [Z-Insert.stl](stl/Z-Insert.stl)
-* [Fan Bracket.stl](stl/Fan_Bracket.stl)
-* [Fan Shroud.stl](stl/Fan_Shroud.stl)
-* 2x [Spacers.stl](stl/Spacers.stl)
+* [Fan Duct.stl](files/Fan_Duct.stl)
+* [Z-Insert.stl](files/Z-Insert.stl)
+* [Fan Bracket.stl](files/Fan_Bracket.stl)
+* [Fan Shroud.stl](files/Fan_Shroud.stl)
+* 2x [Spacers.stl](files/Spacers.stl)
 
 
 ### Installation
@@ -152,8 +152,8 @@ My interpretation of these results:
 * Prints that have more surface area may have a bit more time to cool before the next layer is applied, however, nozzle based cooling solutions will be less effective because they are only in a position to cool a section for a very short amount of time (as the filament is extruded from the nozzle)
 * Smaller prints can benefit somewhat from increased nozzle based cooling systems because the ducts are likely to cover more surface area of the print for a more sustained period of time. Unfortunately smaller parts will likely have very short layer times and nozzle based cooling will probably not be sufficient   
 
-![Benchy Front View](./img/front-before-after.jpg)
-![Benchy Side View](./img/side-before-after.jpg)
+![Benchy Front View](images/front-before-after.jpg)
+![Benchy Side View](images/side-before-after.jpg)
 
 ### CFD Study
 I found a nice [tutorial / overview](https://www.youtube.com/watch?v=Wun9EuVTV0w) from Teaching Tech that showed how to do some Computational Fluid Dynamics simulations using a site called [Simscale](https://www.simscale.com/). I quite literally have no idea if I'm using this tool correctly or not! With that said, it seems to provide some good visualizations of air flow, and reflects the changes I'd expect to see as I refined the CAD model.
@@ -167,11 +167,11 @@ Made some updates to the duct output in an attempt to better distribute the airf
 
 As much as I enjoy running simulations and updating CAD, I've decided to pause the iteration and get some real world print time under my belt with the current design as published here in GitHub.
 
-![CFD v2 fan duct](./img/cfd-v2.png)
-![CFD v2 fan duct](./img/cfd-front-v2.png)
-![CFD v2 fan duct full plate](./img/cfd-dual-v2.png)
+![CFD v2 fan duct](images/cfd-v2.png)
+![CFD v2 fan duct](images/cfd-front-v2.png)
+![CFD v2 fan duct full plate](images/cfd-dual-v2.png)
 
 #### V1 duct output design
 Some data to back up the physical observations (places hand in front of the vents). Looks like most of the air is flowing through the center of the duct, not much is getting to the outside edges...
-![CFD v1 fan duct](./img/cfd-v1.png)
-![CFD v1 fan duct](./img/cfd-front-v1.png)
+![CFD v1 fan duct](images/cfd-v1.png)
+![CFD v1 fan duct](images/cfd-front-v1.png)
