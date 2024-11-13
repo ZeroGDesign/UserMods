@@ -2,7 +2,7 @@
 
 This mod is designed to provide a simple and sturdy solution for tensioning belts on the Ender 5 Plus(Need confirmation for the Ender 5) Mercury 1 and Mercury 1.1 Systems
 
-<img src="https://github.com/Vprince099/UserMods/blob/70ca9a4ffd59bd3d6dac79b1b4dd776309475bd6/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/Showcase_Image.PNG" width="50%" height="50%">
+![Showcase](images/Showcase_Image.PNG)
 
 ## Description
 
@@ -33,13 +33,13 @@ F695 Bearing | 4 | From Original BOM
 
 * Install the Heatset inserts with a soldering iron for both the Left and Right Frame printed parts
 * Total amount of Heatsets to install is **8**
-<img src="https://github.com/Vprince099/UserMods/blob/9484fb143167ddbe990767eebb4dfe4484cb84fe/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/Heatset%20installation.PNG" width="50%" height="50%">
+![Heatset Installation](images/Heatset installation.PNG)
 
 ### Step 2 - Mount Frame to Extrusions
 
 * Install the T-Nuts on both sides of the extrusion frame
 * Total amount of T-Nuts to install is **6**
-<img src="https://github.com/Vprince099/UserMods/blob/9484fb143167ddbe990767eebb4dfe4484cb84fe/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/T_Nut_Intsallation.PNG" width="50%" height="50%">
+![T Nut Installation](images/T_Nut_Intsallation.PNG)
 
 * Install the M5x12mm BHCS at the Rear Mount hole
 * Install the M5x25mm BHCS at the Inside Mount hole (This is a longer bolt to provide more structural rigidity)
@@ -47,7 +47,7 @@ F695 Bearing | 4 | From Original BOM
 * Total amounts 
    * M5x12mm BHCS quantity of **2**
    * M5x25mm BHCS quantity of **2**
-<img src="https://github.com/Vprince099/UserMods/blob/9484fb143167ddbe990767eebb4dfe4484cb84fe/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/Securing_frame.PNG" width="50%" height="50%">
+![Securing to the Frame](images/Securing_frame.PNG)
 
 ### Step 3 - Install Bearing Stack
 
@@ -59,13 +59,13 @@ F695 Bearing | 4 | From Original BOM
    * M5x30mm PIN quantity of **2**
    * M5x1mm Shim quantity of **4**
    * F695 Bearing quantity of **4**
-<img src="https://github.com/Vprince099/UserMods/blob/9484fb143167ddbe990767eebb4dfe4484cb84fe/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/Installing%20BearingStack.PNG" width="50%" height="50%">
+![Installing Bearing Stack](images/Installing BearingStack.PNG)
 
 ### Step 4 - Install Belt
 
 * If this is a new build, follow the steps prescribed in the original instructions for the Mercury Printers
 * if this is a retrofit, you will need to install as pictured below
-<img src="https://github.com/Vprince099/UserMods/blob/9484fb143167ddbe990767eebb4dfe4484cb84fe/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/Alternate%20Installation%20method%20for%20Bearing%20Stack.PNG" width="50%" height="50%">
+![Alternate Installation method for Bearing Stack](images/Alternate Installation method for Bearing Stack.PNG)
 
 ### Step 5 - Install Tensioner
 
@@ -75,28 +75,28 @@ F695 Bearing | 4 | From Original BOM
    * The Stadium Shaped Slot can be used to lift the bolt
    * This slot also exists in case you need to uninstall the tensioner - *since it will be captive once fully inserted*
    * A pick and hook can be used for this or a small screwdriver
-<img src="https://github.com/Vprince099/UserMods/blob/9484fb143167ddbe990767eebb4dfe4484cb84fe/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/Install_Tensioner.PNG" width="50%" height="50%">
+![Install Tensioner](images/Install_Tensioner.PNG)
 
 ### Step 6 - Install Knob
 
 * Install the knob but **Do Not** fully tighten until everything is installed 
-<img src="https://github.com/Vprince099/UserMods/blob/9484fb143167ddbe990767eebb4dfe4484cb84fe/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/Install_Knob.PNG" width="50%" height="50%">
+![Install Knob](images/Install_Knob.PNG)
 
 ### Step 7 - Install Lids
 
 * Install the lids on the sides of the frame
 * Use the M3x6MM BHCS screws to secure the lids
 * Total amount of M3x6MM BHCS screws to install is **8**
-<img src="https://github.com/Vprince099/UserMods/blob/9484fb143167ddbe990767eebb4dfe4484cb84fe/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/Install_plate.PNG" width="50%" height="50%">
+![Install Plate](images/Install_plate.PNG)
 
 ## How to use
 
 * Tension using the Knob
     * Ensure you are tensioning equally on both sides i.e 1/8th turn on each side simultaneously
-<img src="https://github.com/Vprince099/UserMods/blob/f209a1665c24bf2940ba4b4ddfbcd25a18824565/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/Tension_Process.PNG" width="100%" height="100%">
+![Tension Process](images/Tension_Process.PNG)
 
 * Lock using the internal bolt inside the Stadium Shaped Slot
-<img src="https://github.com/Vprince099/UserMods/blob/f209a1665c24bf2940ba4b4ddfbcd25a18824565/Mercury_One/Vengeful/Standalone_Knob_Tensioners/images/Locking_Location.PNG" width="100%" height="100%">
+![Locking Location](images/Locking_Location.PNG)
 
 ## Help
 
