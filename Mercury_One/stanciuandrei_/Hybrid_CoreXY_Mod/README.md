@@ -7,11 +7,12 @@ This mod is compatible with the pro and the plus, hydra or stock bed without sac
 # BOM:
 | Type | Quantity | Link |
 | --- | --- | --- |
-| M5 X 8 | 4 |  |
-| M5 X 15 SHCS | 2 |  |
+| M5 X 8 | 6 |  |
+| M5 X 20 SHCS | 2 |  |
 | M5 x 20 BHCS | 2 |  |
+| M5 1mm shims (2 from bellow the X-Joints) | 2 |  |
 | M5 Hexnut | 2 |  |
-| M5 Tnuts | 4 |  |
+| M5 Tnuts | 6 |  |
 | M3 X 8 | 8 |  |
 | M3 X 25 | 2 |  |
 | M3 Heatset | 2 |  |
@@ -21,8 +22,6 @@ This mod is compatible with the pro and the plus, hydra or stock bed without sac
 | GT2 6mm belt (Meters) | 2.5 | [TriangleLab](https://www.aliexpress.com/item/1005006507781085.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.10.79e84373z6VzLP&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40000.327270.0&scm_id=1007.40000.327270.0&scm-url=1007.40000.327270.0&pvid=05219372-ecd3-419b-a10a-51f408bfd315&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40000.327270.0,pvid:05219372-ecd3-419b-a10a-51f408bfd315,tpp_buckets:668%232846%238111%231996&pdp_npi=4%40dis%21RON%2137.39%2137.39%21%21%218.07%218.07%21%40210384b217284195399182611e3468%2112000037754698142%21rec%21RO%21921752181%21XZ&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A) |
 
 # Build Instructions
-
-Print 2 Motor Mounts, 2 carriages, 2 belt tensioners and the left and right idlers.
 
 ---
 
