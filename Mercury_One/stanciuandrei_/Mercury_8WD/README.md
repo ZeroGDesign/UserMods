@@ -1,4 +1,5 @@
-
+# 8WD 6mm Mercury1.1 mod
+<img src="IMAGES/8WD_render.PNG">
 
 # BOM:
 Some parts will not be mentioned because they come with the mercury kit.
