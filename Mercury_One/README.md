@@ -49,7 +49,7 @@ like so:
 | Rudra | [X Extrusion Squaring Tool](./Rudra/X_Extrusion_Squaring_Tool) | Simple tool to square the x extrusion to the frame | 💚
 |  | [Belt Tensioning Tool](./Rudra/Belt_Tensioning_Tool) | Simple tool to ensure a 150mm distance from idler to idler for easy belt tensioning | 💚
 | DrPeterPlastic | [Wago4-Mount](./DrPeterPlastic/Wago4-Mount-Hydra)  | Mount for 4 Wagos on Hydra | 💚
-| stanciuandrei_ | [AWD_motorMounts](./stanciuandrei_/AWD_motorMounts) | AWD motor Mod for Mercury1.1 | 💙
+| stanciuandrei_ | [AWD_motorMounts](./stanciuandrei_/AWD_Mod) | AWD motor Mod for Mercury1.1 | 💙
 | stanciuandrei_ | [Hybrid_CoreXY_Mod](./stanciuandrei_/Hybrid_CoreXY_Mod) | Hybrid CoreXY Mod for Mercury1.1 | 💚
 | stanciuandrei_ | [8WD_Mod](./stanciuandrei_/Mercury_8WD) | 8WD Mod for Mercury1.1 | :heart:
 | Vengeful | [Klicky Mount](./Vengeful/Klicky_Bracket) | E5 Plus Mounting Bracket for Klicky mod| 💚
