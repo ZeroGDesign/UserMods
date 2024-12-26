@@ -51,6 +51,7 @@ like so:
 | DrPeterPlastic | [Wago4-Mount](./DrPeterPlastic/Wago4-Mount-Hydra)  | Mount for 4 Wagos on Hydra | 💚
 | stanciuandrei_ | [AWD_motorMounts](./stanciuandrei_/AWD_motorMounts) | AWD motor Mod for Mercury1.1 | 💙
 | stanciuandrei_ | [Hybrid_CoreXY_Mod](./stanciuandrei_/Hybrid_CoreXY_Mod) | Hybrid CoreXY Mod for Mercury1.1 | 💚
+| stanciuandrei_ | [8WD_Mod](./stanciuandrei_/Mercury_8WD) | 8WD Mod for Mercury1.1 | :heart:
 | Vengeful | [Klicky Mount](./Vengeful/Klicky_Bracket) | E5 Plus Mounting Bracket for Klicky mod| 💚
 |  | [Standalone Knob Tensioner](./Vengeful/Standalone_Knob_Tensioners) | Knob Tensioners for Mecrury Printers| 💙
 | hrt_plk | [MGN9H gantry](./hrt_plk/gantry-mgn9h) | Custom parts to replace y axis from MGN12 to MGN9 | 💚
