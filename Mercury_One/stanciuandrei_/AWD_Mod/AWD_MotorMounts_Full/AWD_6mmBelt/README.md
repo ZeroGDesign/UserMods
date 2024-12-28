@@ -9,10 +9,11 @@ Some parts will not be mentioned because they come with the mercury kit.
 | Shoulder skrews 40mm long 5mm! shaft with M3 thread ([check picture](IMAGES/Shoulder_skrews.png) ) | 16 | [Aliexpress](https://www.aliexpress.com/item/1005004802215831.html) |
 | M5 1mm shims (6 you can extract from the tensioners) | 18 | [Nindejin](https://www.aliexpress.com/item/4000174460068.html) |
 | F695-2RS bearings(4 are in the tensioners) | 12 | [Fushi](https://www.aliexpress.com/item/32850989216.html) |
-| 5x30 shafts (the ones from the tensioners) | 2 |  |
+| M5x30 dowel pins (the ones from the tensioners) | 2 |  |
+| M5x55 screws | 4 | [Nindejin](https://aliexpress.com/item/1005005267980793.html) |
 | M5x20 screws(2 from the tensioners) | 4 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
-| M5x10 screws | 2 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
-| M5 T-nut | 2 | [Aliexpress](https://vi.aliexpress.com/item/32706208829.html) |
+| M5x10 screws | 2 | [Nindejin](https://aliexpress.com/item/4000142028043.html) |
+| M5 T-nut | 2 | [Aliexpress](https://aliexpress.com/item/32706208829.html) |
 | M5 Heatset insert M5 X D7.0 X L9.0 | 2 | [Aliexpress](https://vi.aliexpress.com/item/4000232990523.html)  |
 | M3 heat set inserts (from the tensioners) | 2 |  |
 | 8.5mm GT2 20 tooth pulley | 2 | [Mellow](https://www.aliexpress.com/item/1005004374407134.html) |
