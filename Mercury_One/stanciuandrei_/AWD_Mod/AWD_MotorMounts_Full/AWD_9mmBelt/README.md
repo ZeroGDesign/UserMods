@@ -1,5 +1,7 @@
 # Full AWD Double shear Mod 9mm for Mercury1.1 -- !! In testing !!
 
+# The mods are in testing, the parts may or may not fit right. I am not responsible for any damage this may cause.
+
 <img src="IMAGES/AWD_Assembly_Front.png">
 
 # BOM:
