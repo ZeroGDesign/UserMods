@@ -1,6 +1,8 @@
 # 8WD 6mm Mercury1.1 mod -- !! In testing !!
 <img src="IMAGES/8WD_render.png">
 
+# The mods are in testing, the parts may or may not fit right. I am not responsible for any damage this may cause.
+
 # BOM:
 Some parts will not be mentioned because they come with the mercury kit.
 | Type | Quantity | Link |
