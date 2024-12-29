@@ -8,20 +8,20 @@ Some parts will not be mentioned because they come with the mercury kit.
 | Shoulder skrews 40mm long 5mm! shaft with M3 thread ([check picture](IMAGES/Shoulder_skrews.png) ) | 16 | [Aliexpress](https://www.aliexpress.com/item/1005004802215831.html) |
 | M5 1mm shims (6 you can extract from the tensioners) | 26 | [Nindejin](https://www.aliexpress.com/item/4000174460068.html) |
 | F695-2RS bearings(4 are in the tensioners) | 16 | [Fushi](https://www.aliexpress.com/item/32850989216.html) |
-| M5 x 30 dowel pins (the ones from the tensioners) | 2 |  |
-| M5 x 20 dowel pins | 2 |  |
-| M5x55 screws | 4 | [Nindejin](https://aliexpress.com/item/1005005267980793.html) |
-| M5 X 8 | 6 |  |
-| M5 x 20 Flat Head screws | 2 |  |
+| M5 x 30 dowel pins (the ones from the tensioners) | 2 | [Nindejin](https://vi.aliexpress.com/item/1005002308655979.html) |
+| M5 x 20 dowel pins | 2 | [Nindejin](https://vi.aliexpress.com/item/1005002308655979.html) |
+| M5 x 55 screws | 4 | [Nindejin](https://aliexpress.com/item/1005005267980793.html) |
+| M5 X 8 screws | 6 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
+| M5 x 20 Flat Head screws | 2 | [Nindejin](https://aliexpress.com/item/1005005267980793.html) |
 | M5 x 20 SHCS screws(2 from the tensioners) | 6 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
 | M5 x 10 screws | 6 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
 | M5 T-nut | 12 | [Aliexpress](https://vi.aliexpress.com/item/32706208829.html) |
-| M5 Hexnut | 2 |  |
+| M5 Hexnut | 2 | [Nindejin](https://vi.aliexpress.com/item/4000152457370.html) |
 | M5 Heatset insert M5 X D7.0 X L9.0 | 2 | [Aliexpress](https://vi.aliexpress.com/item/4000232990523.html)  |
-| M3 X 8 | 10 |  |
-| M3 X 20 | 2 |  |
-| M3 X 25 | 6 |  |
-| M3 heat set inserts (2 from the tensioners) | 6 |  |
+| M3 X 8 | 10 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
+| M3 X 20 | 2 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
+| M3 X 25 | 6 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
+| M3 heat set inserts (2 from the tensioners) | 6 | [Aliexpress](https://vi.aliexpress.com/item/4000232858343.html) |
 | Gt2 20T Idler 8.5mm tall | 4 | [Mellow](https://www.aliexpress.com/item/1005004374407134.html) |
 | GT2 or GT3 6mm belts | 8 Meters | [TriangleLab](https://www.aliexpress.com/item/1005006507781085.html) |
 | Gt2 20T Motor pulley | 8 | [Mellow](https://www.aliexpress.com/item/33023279793.html) |
@@ -52,8 +52,6 @@ Some parts will not be mentioned because they come with the mercury kit.
 [VZbot Motor sync](https://www.youtube.com/watch?v=so9oqJyirKY)
 
 ## Hybrid Instructions
-
----
 
 ### Motor Assembly:
 
