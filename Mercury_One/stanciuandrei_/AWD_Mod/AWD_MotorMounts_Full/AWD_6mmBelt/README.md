@@ -1,6 +1,7 @@
 # Full AWD 6mm Mercury1.1 mod -- !! In testing !!
 <img src="IMAGES/AWD_render.PNG">
 
+# The mods are in testing, the parts may or may not fit right. I am not responsible for any damage this may cause.
 
 # BOM:
 Some parts will not be mentioned because they come with the mercury kit.
