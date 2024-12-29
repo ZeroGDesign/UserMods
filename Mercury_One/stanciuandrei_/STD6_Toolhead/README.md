@@ -1,4 +1,4 @@
-# STD6 Toolhead based on eva2.4 for Mercury1.1
+# STD6 Toolhead based on eva2.4 for Mercury1.1 -- !! In testing !!
 <img src="IMAGES/STD6_9mm_Extended.png">
 
 # BOM:
