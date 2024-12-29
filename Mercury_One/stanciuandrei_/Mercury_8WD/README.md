@@ -1,4 +1,4 @@
-# 8WD 6mm Mercury1.1 mod
+# 8WD 6mm Mercury1.1 mod -- !! In testing !!
 <img src="IMAGES/8WD_render.png">
 
 # BOM:
