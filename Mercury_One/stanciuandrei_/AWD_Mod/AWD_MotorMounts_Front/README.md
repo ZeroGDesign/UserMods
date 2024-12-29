@@ -1,6 +1,7 @@
 # AWD Mercury1.1 mod
 <img src="IMAGES/AWD_render.PNG">
 
+# The mods are in testing, the parts may or may not fit right. I am not responsible for any damage this may cause.
 
 # BOM:
 | Type | Quantity | Link |
