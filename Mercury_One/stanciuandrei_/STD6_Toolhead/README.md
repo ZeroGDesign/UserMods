@@ -12,6 +12,7 @@
 | Heatset inserts | 24 | [Aliexpress](https://vi.aliexpress.com/item/4000232858343.html) |
 | STD6 Hotend | 1 | [TriangleLab](https://trianglelab.net/products/std6-ceramic-heating-core?VariantsId=11845) |
 | Orbiter Extruder (v2.0 or v2.5) | 1 | [TriangleLab](https://trianglelab.net/products/orbiter-extruder-v20?VariantsId=10239) |
+| Cpap fan pipe an turbo | 1 | [Biqu](https://biqu.equipment/products/universal-turbo-kit) |
 
 ### Optional for Extended version:
 | Type | Quantity | Link |
