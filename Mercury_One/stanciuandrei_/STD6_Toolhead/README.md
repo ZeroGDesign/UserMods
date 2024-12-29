@@ -1,6 +1,8 @@
 # STD6 Toolhead based on eva2.4 for Mercury1.1 -- !! In testing !!
 <img src="IMAGES/STD6_9mm_Extended.png">
 
+# The mods are in testing, the parts may or may not fit right. I am not responsible for any damage this may cause.
+
 # BOM:
 | Type | Quantity | Link |
 | --- | --- | --- |
