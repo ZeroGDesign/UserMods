@@ -10,6 +10,7 @@ Some parts will not be mentioned because they come with the mercury kit.
 | F695-2RS bearings(4 are in the tensioners) | 16 | [Fushi](https://www.aliexpress.com/item/32850989216.html) |
 | M5 x 30 dowel pins (the ones from the tensioners) | 2 |  |
 | M5 x 20 dowel pins | 2 |  |
+| M5x55 screws | 4 | [Nindejin](https://aliexpress.com/item/1005005267980793.html) |
 | M5 X 8 | 6 |  |
 | M5 x 20 Flat Head screws | 2 |  |
 | M5 x 20 SHCS screws(2 from the tensioners) | 6 | [Nindejin](https://vi.aliexpress.com/item/4000142028043.html) |
